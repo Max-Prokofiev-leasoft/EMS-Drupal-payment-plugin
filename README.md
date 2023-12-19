@@ -30,7 +30,7 @@ The ideal online payment page for your webshop:
 
 ## Version number
 
-* Latest version VERSION_HERE
+* Latest version 1.0.0
 
 ## Requirements:
 - PHP v8.x
